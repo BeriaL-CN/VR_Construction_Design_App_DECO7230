@@ -1,0 +1,38 @@
+# ============================================
+# EXCLUDE THESE COMPLETELY
+# ============================================
+Learning Resource/
+a4 challenge/
+VR/
+
+# ============================================
+# EXCLUDE FROM PROTOTYPES
+# ============================================
+# Video & Audio
+Prototype*/video material/
+Prototype*/*.mp4
+Prototype*/*.mov
+Prototype*/*.m4a
+
+# APK & Archives
+Prototype*/*.apk
+Prototype*/*.zip
+
+# Course materials (keep storyboard, screenshots, analysis)
+Prototype*/*Rubric*.pdf
+Prototype*/*_Rubric.pdf
+Prototype*/*Brief*.pdf
+Prototype*/*Assessment*.pdf
+
+# Temp files
+Prototype*/.DS_Store
+
+# ============================================
+# SYSTEM FILES
+# ============================================
+.DS_Store
+**/.DS_Store
+Thumbs.db
+*~
+*.swp
+~$*
