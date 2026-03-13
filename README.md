@@ -130,7 +130,7 @@ I also learned that using **real-world design patterns** (like the wristband) ca
 
 ### Contact / 联系方式
 
-- **Name:** Jiepeng Huang (黄捷鹏)
+- **Name:** Jiepeng Huang (黄杰鹏)
 - **Student ID:** 47352580
 - **Course:** DECO7230 - Extended Reality (XR) Development
 - **University:** The University of Queensland
